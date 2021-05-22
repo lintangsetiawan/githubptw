@@ -16,7 +16,7 @@
     <hr>
     <p>
         Kamu bisa menghubungi saya melalui nomer WA: 
-        <a href="https://api.whatsapp.com/send?phone=6287111&text=Hi">+6285859443654</a>
+        <a href="https://api.whatsapp.com/send?phone=6285859443654&text=Hi">+6285859443654</a>
         atau juga alamat email: lintangsetiawan84@gmail.com.
     </p>
     <p>
